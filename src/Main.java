@@ -28,6 +28,7 @@ public class Main {
         System.out.println(echo.login("Are you login?"));
         System.out.println(echo.logout("Are you logout?"));
         System.out.println(echo.logout("Are you logout?"));
+        System.out.println("Test");
 
 
     }
